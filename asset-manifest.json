@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/biokudi-frontend/static/css/main.3236cdc3.css",
-    "main.js": "/biokudi-frontend/static/js/main.2683b107.js",
+    "main.css": "/biokudi-frontend/static/css/main.169d8887.css",
+    "main.js": "/biokudi-frontend/static/js/main.ec800bb4.js",
     "static/js/453.8ab44547.chunk.js": "/biokudi-frontend/static/js/453.8ab44547.chunk.js",
     "static/media/logo.svg": "/biokudi-frontend/static/media/logo.37be8cdbdc2f5ce647e58aae74c00aea.svg",
     "static/media/logoCopyRight.svg": "/biokudi-frontend/static/media/logoCopyRight.12e59b56d83a76ddef70783528a5f84b.svg",
@@ -11,12 +11,12 @@
     "static/media/btnPlaces.svg": "/biokudi-frontend/static/media/btnPlaces.2837fb51caab91623ee5213f3e34f97b.svg",
     "index.html": "/biokudi-frontend/index.html",
     "static/media/btnLogin.svg": "/biokudi-frontend/static/media/btnLogin.0a77fd27a9ad4759360019ffe367bea5.svg",
-    "main.3236cdc3.css.map": "/biokudi-frontend/static/css/main.3236cdc3.css.map",
-    "main.2683b107.js.map": "/biokudi-frontend/static/js/main.2683b107.js.map",
+    "main.169d8887.css.map": "/biokudi-frontend/static/css/main.169d8887.css.map",
+    "main.ec800bb4.js.map": "/biokudi-frontend/static/js/main.ec800bb4.js.map",
     "453.8ab44547.chunk.js.map": "/biokudi-frontend/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3236cdc3.css",
-    "static/js/main.2683b107.js"
+    "static/css/main.169d8887.css",
+    "static/js/main.ec800bb4.js"
   ]
 }
